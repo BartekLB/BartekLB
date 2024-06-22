@@ -1,13 +1,23 @@
 ## Hi there 👋
-
+I am a student of Applied Computer Science 
+- 🌱 I’m currently learning about deep learning models using CNNs for image analysis
+- 👯 Looking for Collaborators to Develop a Property Rental Application
+Technologies I use:
+- Java
+- Spring Boot
+- Spring Security
+- Thymeleaf
 <!--
-**BartekLB/BartekLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently, I am working 
+- 🌱 I’m currently learning about deep learning models using CNNs for image analysis
+- 👯 Looking for Collaborators to Develop a Property Rental Application
+Technologies I use:
+- Java
+- Spring Boot
+- Spring Security
+- Thymeleaf
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
