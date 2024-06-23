@@ -4,9 +4,13 @@ I am a student of Applied Computer Science
 - 👯 Looking for Collaborators to Develop a Property Rental Application
 
 Technologies I use:
+
 Java
+
 Spring Boot
+
 Spring Security
+
 Thymeleaf
 <!--
 - 🔭 Currently, I am working 
